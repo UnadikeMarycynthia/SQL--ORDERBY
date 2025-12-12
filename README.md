@@ -15,3 +15,7 @@ Multiple columns: You can sort by more than one column, each with its own direct
 An alias in SQL is simply a temporary name you give to a table or a column in your query. It doesn’t change the actual name in the database 
 it only exists while the query runs. Aliases make queries shorter, cleaner, and easier to read.
 <img width="704" height="485" alt="image" src="https://github.com/user-attachments/assets/9c9fe39a-e9dd-4841-aaaf-dca481f7f4a2" />
+
+
+https://drive.google.com/drive/folders/1ws5BIZxEp0TgSc9aKjeWfk6A_Wd2GCg9?usp=sharing
+
